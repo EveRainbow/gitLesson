@@ -1,3 +1,3 @@
-$('#btn').on('click', function () {
+$('#btn').click (function () {
 	console.log("Hello");
 });
